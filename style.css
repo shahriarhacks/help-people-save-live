@@ -1,0 +1,225 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.elementOFall {
+    width: 95%;
+    padding: 0% 2% 0% 2%;
+    margin-bottom: 130px;
+}
+
+.itemIncenter {
+    text-align: center;
+    padding-top: 0%;
+}
+
+.firstSection {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.911), rgba(0, 0, 0, 0.322)), url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 640px;
+    padding-top: 10%;
+}
+
+.firstSection p {
+    margin-bottom: 4%;
+}
+
+.mybtn {
+    margin-top: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: crimson;
+    padding: 15px 25px 15px 25px;
+    font-weight: 900;
+    border-radius: 5px;
+}
+
+.secondSection {
+    width: 100%;
+}
+
+.secondSection h2 {
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 9%;
+}
+
+.price-sec {
+    display: flex;
+    width: 90%;
+    padding-left: 7.5%;
+    margin-top: 0%;
+}
+
+.price-sec p {
+    font-family: arial;
+    width: 25%;
+    background-color: rgba(189, 189, 189, 0.219);
+    padding: 80px 5px 80px 5px;
+    margin-right: 5%;
+    text-align: center;
+    font-size: 35px;
+    border-radius: 10px;
+    font-weight: bolder;
+    color: rgba(97, 97, 97, 0.678);
+}
+
+#highlightedlist {
+    color: rgba(220, 20, 60, 0.767);
+    background-color: rgba(220, 20, 60, 0.096);
+    border: 5px solid rgba(220, 20, 60, 0.432);
+}
+
+
+.amountSec {
+    margin: 0;
+    padding: 0;
+}
+
+.amountSec h3 {
+    margin-bottom: 40px;
+    border-bottom: 1px solid rgb(173, 173, 173);
+    padding-bottom: 15px;
+    color: gray;
+}
+
+.elementOFall .donatePlandiv {
+    padding-top: 0%;
+}
+
+.donatePlandiv h1 {
+    font-size: 40px;
+}
+
+.donatePlandiv h3 {
+    color: rgb(71, 71, 71);
+}
+
+.donatePlandiv h4 {
+    color: black;
+    font-weight: 400;
+}
+
+.donatinghead {
+    padding-bottom: 4%;
+}
+
+.plan-model .plan-list {
+    width: 27%;
+    background-color: rgba(255, 0, 0, 0.075);
+    padding: 5% 2% 2% 2%;
+    height: 270px;
+    float: left;
+    margin-right: 20px;
+}
+
+#planlist2 {
+    background-color: rgba(9, 255, 0, 0.123);
+}
+
+#planlist3 {
+    background-color: rgba(255, 255, 0, 0.158);
+}
+
+/*third Section complete hear*/
+
+.description-sec {
+    display: flex;
+    width: 90%;
+
+}
+
+.describetext {
+    width: 50%;
+    margin-left: 100px;
+}
+
+.describetext h2 {
+    font-size: 35px;
+}
+
+.describetext h4 {
+    width: 70%;
+}
+
+.describetext a {
+    margin-top: 2%;
+    float: left
+}
+
+.description-sec img {
+    width: 100%;
+    padding-top: 5%;
+}
+
+.commentAnd-img {
+    width: 80%;
+    padding-left: 130px
+}
+
+.commentSec {
+    display: flex;
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+.fivethSection {
+    margin-left: 100px;
+}
+
+.fivethSection img {
+    width: 100%;
+
+}
+
+.CommentImg {
+    width: 15%;
+    padding-right: 2%;
+    padding-top: 2%;
+}
+
+.emailInputsec {
+
+    background-color: antiquewhite;
+    padding: 7%;
+    padding-left: 35%;
+}
+
+.emailInputsec .mailinput {
+    outline: none;
+    padding: 15px 40px 15px 40px;
+    border-radius: 6px;
+    border: none;
+    background-color: whitesmoke;
+    color: crimson;
+}
+
+.emailInputsec a {
+    color: white;
+    background-color: crimson;
+    padding: 15px 25px 15px 25px;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+footer {
+    padding: 2%;
+    background-color: rgb(17, 17, 17);
+    color: white;
+    text-align: center;
+}
+
+footer h1 {
+    font-size: 35px;
+    font-family: 'Finlandica', sans-serif;
+    color: orangered;
+}
